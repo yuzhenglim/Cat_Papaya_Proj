@@ -1,0 +1,38 @@
+<annotation>
+	<folder>papaya</folder>
+	<filename>papaya (65).jpg</filename>
+	<path>D:\datasets_object_detection\papaya\papaya (65).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>277</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>papaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>72</ymin>
+			<xmax>150</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>papaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>66</ymin>
+			<xmax>208</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

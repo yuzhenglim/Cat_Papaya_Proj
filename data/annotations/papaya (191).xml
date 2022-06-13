@@ -1,0 +1,26 @@
+<annotation>
+	<folder>papaya</folder>
+	<filename>papaya (191).jpg</filename>
+	<path>D:\datasets_object_detection\papaya\papaya (191).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>285</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>papaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>56</ymin>
+			<xmax>246</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

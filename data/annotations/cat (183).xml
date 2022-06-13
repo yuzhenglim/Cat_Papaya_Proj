@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat (183).jpg</filename>
+	<path>D:\datasets_object_detection\cat\cat (183).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>22</ymin>
+			<xmax>482</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>
